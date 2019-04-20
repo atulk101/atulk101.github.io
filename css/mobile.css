@@ -50,11 +50,11 @@
 }
 @media (max-height: 568px) {
   #showcase .showcase-content {
-    margin-top: -2rem;
+    margin-top: -3rem;
     top: 140px;
   }
   .l-heading {
-    font-size: 3rem;
+    font-size: 2rem;
   }
   .lead {
     font-size: 1rem;
