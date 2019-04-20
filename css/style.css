@@ -106,7 +106,7 @@ p {
 /* Navbar */
 #navbar {
   display: flex;
-  position: sticky;
+  position: fixed;
   top: 0;
   background: #333;
   color: white;
